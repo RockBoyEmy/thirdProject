@@ -7,6 +7,10 @@
 #include <chrono>
 using namespace std;
 
+/*added a random comment here as well because
+I simply had nothing better to do */
+
+
 //getters
 string& Player::getName()
 {
