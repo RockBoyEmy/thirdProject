@@ -1,6 +1,5 @@
-*.png
-*.log
-*.exe
-*.sdf
-*.suo
-*.sln
+*.*
+!*.txt
+!*.pdf
+!*.cpp
+!*.h
